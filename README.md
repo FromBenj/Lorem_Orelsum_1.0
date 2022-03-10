@@ -1,2 +1,4 @@
 # Lorem_Orelsum
-Lorem Ipsum with Orelsan lyrics
+### _Lorem Ipsum with Orelsan lyrics_
+
+Use **lorem_ipsum.min.js** file and have fun!
