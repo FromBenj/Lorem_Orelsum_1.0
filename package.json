@@ -1,0 +1,9 @@
+{
+  "name": "Lorem Orelsum",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:FromBenj/Lorem_Orelsum.git",
+  "author": "Benjamin TOUBOUL <touboul.benjamin@gmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
